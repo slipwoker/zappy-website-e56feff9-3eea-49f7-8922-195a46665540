@@ -1,0 +1,53 @@
+# אסתי — Generative Engine Optimization Map
+
+> A צילום business.
+
+---
+
+## Pages
+
+### Home
+https://-e56feff9.zappy5.app
+
+### Portfolio
+https://-e56feff9.zappy5.app/portfolio
+
+### Behind the Scenes
+https://-e56feff9.zappy5.app/behind-the-scenes
+
+### Contact
+https://-e56feff9.zappy5.app/contact
+
+## Legal & Policy
+
+### Privacy Policy
+https://-e56feff9.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-e56feff9.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-e56feff9.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About אסתי
+אסתי is a business in the צילום industry.
+
+## Target Audience
+אנשים המעוניינים בשירותי צילום
+
+## Industry
+צילום
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-e56feff9.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-e56feff9.zappy5.app/robots.txt
